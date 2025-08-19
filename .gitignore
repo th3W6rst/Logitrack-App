@@ -1,0 +1,22 @@
+﻿# --- Node / Expo ---
+frontend/node_modules/
+frontend/.expo/
+frontend/.expo-shared/
+*.log
+
+# Variáveis de ambiente
+.env
+frontend/.env
+backend/.env
+
+# --- Maven / Java ---
+backend/target/
+
+# Banco H2 em arquivo
+backend/data/
+
+# IDE/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

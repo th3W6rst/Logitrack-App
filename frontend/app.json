@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "LogiTrack",
+    "slug": "logitrack",
+    "scheme": "logitrack",
+    "platforms": [
+      "web"
+    ],
+    "extra": {
+      "apiUrl": {
+        "$env": "EXPO_PUBLIC_API_URL"
+      }
+    }
+  }
+}
